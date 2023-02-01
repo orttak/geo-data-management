@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1673708242378-fa867a0a285d?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzUyNzI4NTk&ixlib=rb-4.0.3&q=80
+coverY: -50
+---
+
 # VS Code SSH Connection
 
 PC NAME: vm

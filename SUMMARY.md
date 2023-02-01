@@ -3,6 +3,5 @@
 * [Google Earth Engine](README.md)
   * [Sentinel-2](google-earth-engine/sentinel-2.md)
 * [Linux](<README (1).md>)
-  * [Computing Environment : Linux to Linux SSH Connection to Users](linux/computing-environment-linux-to-linux-ssh-connection-to-users.md)
   * [VS Code SSH Connection](linux/vs-code-ssh-connection.md)
   * [Creating Remote Jupyter Server](linux/creating-remote-jupyter-server.md)

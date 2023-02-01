@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Creating Remote Jupyter Server
 
 Update & Upgrade System:\
