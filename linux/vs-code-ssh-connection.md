@@ -53,13 +53,13 @@ With above command, we create Docker container which name is geo\_intern from pa
 
 From your local machine CMD, if docker running in Bihter, you should use below command.
 
-$ ssh -L 9998:localhost:9998 [intern@78.188.178.174](mailto:intern@78.188.178.174) #mappingToLocalMachine
+$ ssh -L 9998:localhost:9998 username[@](mailto:intern@78.188.178.174)ipAddress #mappingToLocalMachine
 
 first, you should connect with ssh on local machine CMD
 
-$ ssh [intern@78.188.178.174](mailto:intern@78.188.178.174)
+$ ssh username[@](mailto:intern@78.188.178.174)ipAddress&#x20;
 
-Second, you should apply “docker start geo\_intern” method. And then. Back to your local machine and apply “ssh -L 9998:localhost:9998 [intern@78.188.178.174](mailto:intern@78.188.178.174) “ #mappingToLocalMachine
+Second, you should apply “docker start geo\_intern” method. And then. Back to your local machine and apply “ssh -L 9998:localhost:9998 username[@](mailto:intern@78.188.178.174)ipAddress “ #mappingToLocalMachine
 
 **How we can get Jupyter Ip and Token?**
 
