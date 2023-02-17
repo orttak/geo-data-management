@@ -14,7 +14,7 @@ USER NAME: vsCode
 
 **Direct connection on CMD**
 
-$ ssh vsCode@1.2.3.4
+$ ssh vsCode@1.2.3.4.5
 
 **SSH connection on Windows Vs Code**
 
