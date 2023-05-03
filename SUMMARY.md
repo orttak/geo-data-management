@@ -7,3 +7,5 @@
 * [Linux](<README (1).md>)
   * [VS Code SSH Connection](linux/vs-code-ssh-connection.md)
   * [Creating Remote Jupyter Server](linux/creating-remote-jupyter-server.md)
+* [QGIS](qgis/README.md)
+  * [Export data](qgis/export-data.md)
