@@ -1,7 +1,10 @@
 # Export data
 
+You can export all layers into your target folder as a geopackage
+
+{% code overflow="wrap" %}
 ```python
-myDir="C:/Users/ortta/Desktop/HCU/LIG_RAW_DATA"
+myDir="path/of/target_folder"
 layers = QgsProject.instance().mapLayers()
 for layer_id, layer in layers.items():
     # Construct the file name for the output Geopackage file
@@ -10,3 +13,4 @@ for layer_id, layer in layers.items():
     QgsVectorFileWriter.writeAsVectorFormat(layer, file_name, 'utf-8', layer.crs(), 'GPKG')
     
 ```
+{% endcode %}
