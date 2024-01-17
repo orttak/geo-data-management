@@ -28,7 +28,11 @@ sudo systemctl status ssh
 
 
 
-![](../.gitbook/assets/image.png)
+<div align="left">
+
+<img src="../.gitbook/assets/image.png" alt="">
+
+</div>
 
 If not running enable the ssh server and start it as follows by typing the systemctl command:\
 
